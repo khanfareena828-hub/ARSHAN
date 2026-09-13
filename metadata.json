@@ -1,0 +1,7 @@
+{
+  "name": "Launchly",
+  "description": "Launchly helps modern teams organize projects, manage tasks and work together from one powerful workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
